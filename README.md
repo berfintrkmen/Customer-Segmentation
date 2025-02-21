@@ -1,2 +1,2 @@
 # Customer-Segmentation
-Market Resarch
+Market Research
